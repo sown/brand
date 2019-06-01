@@ -1,10 +1,13 @@
 {
-  "name": "sown-brand",
+  "name": "@sown/brand",
   "version": "1.0.0",
   "description": "Branding for SOWN",
   "main": "index.js",
   "repository": "https://github.com/sown/brand",
   "author": "Dan Trickey <dan@trickey.io>",
   "license": "MIT",
-  "private": false
+  "private": false,
+  "publishConfig": {
+    "access": "public"
+  }
 }
