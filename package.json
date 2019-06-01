@@ -1,6 +1,6 @@
 {
   "name": "@sown/brand",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Branding for SOWN",
   "main": "index.js",
   "repository": "https://github.com/sown/brand",
